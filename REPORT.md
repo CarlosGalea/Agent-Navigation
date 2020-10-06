@@ -61,8 +61,20 @@ the obtained results.
 
 Parameters defined in the 'agent.py' file:
 
-![Parameters](images/parameters)
+![Parameters](images/parameters.png)
+
+Optimizer:
+
+![Optimizer](images/optimizer.png)
 
 Neural Network Architecture: 
 
-![Model Architecture](images/model_architecture)
+![Model Architecture](images/model_architecture.png)
+
+Results achieved by the trained Agent:
+
+![Results](images/results.png)
+
+Plotted Results:
+
+![Plot](images/plot.png)
