@@ -33,7 +33,7 @@ Please follow the [instructions in the DRLND GitHub repository](https://github.c
 
 Carry on by cloning this repository, while making sure that it is accessible by the Python environment that you created during the previous step.
 
-### Step 2: Download the Unity Environment
+### Step 3: Download the Unity Environment
 
 Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -45,7 +45,7 @@ Download the environment from one of the links below.  You need only select the 
 
    (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
-### Step 3: UnZip the Environment
+### Step 4: UnZip the Environment
 
 Finally, unzip the environment archive in the 'project's environment' directory and eventually adjust the path to the UnityEnvironment (Banana.app) in the code.
 
