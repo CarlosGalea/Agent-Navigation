@@ -61,14 +61,8 @@ the obtained results.
 
 Parameters defined in the 'agent.py' file:
 
-```
-BUFFER_SIZE = int(1e5)    #Replay Buffer
-BATCH_SIZE = 32           #Minibatch Size
-GAMMA = 0.99              #Discount Factor
-TAU = 1e-3                #Soft update of target parameters
-LR = 5e-4                 #Learning Rate
-UPDATE_EVERY = 4          #No. of actions between each pair of successive updates
-```
+![Parameters](images/parameters)
 
 Neural Network Architecture: 
-(images/model_architecture)
+
+![Model Architecture](images/model_architecture)
