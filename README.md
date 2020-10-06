@@ -49,6 +49,6 @@ Download the environment from one of the links below.  You need only select the 
 
 Finally, unzip the environment archive in the 'project's environment' directory and eventually adjust the path to the UnityEnvironment (Banana.app) in the code.
 
-### Step 4: Train your own Agent!
+### Step 5: Train your own Agent!
 
 Execute the "DRL_BananaAgent.ipynb" notebook to start training the agent.
