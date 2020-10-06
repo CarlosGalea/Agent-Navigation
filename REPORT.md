@@ -84,7 +84,7 @@ Plotted Results:
 As it was mentioned from lessons in the Udacity Course, there are various different methods when training an agent that could be implemented to improve results.
 These include but not limited to:
 
--[Double DQN](https://arxiv.org/abs/1509.06461)
--[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
--[Dueling DQN](https://arxiv.org/abs/1511.06581)
+- [Double DQN](https://arxiv.org/abs/1509.06461)
+- [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+- [Dueling DQN](https://arxiv.org/abs/1511.06581)
 
