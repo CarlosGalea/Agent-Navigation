@@ -25,7 +25,7 @@ Deep Reinforcement Learning was used to train the agent, while using an environm
 
 ## 2) Getting Started
 
-### Step 1: Clone the DRLND Repository
+### Step 1: Setup Python Environment
 
 Please follow the [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in *README.md* at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
